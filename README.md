@@ -1,52 +1,53 @@
 ![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 
-<h1 align="center">Hi 👋, I'm Ajilogba Ayomide</h1>
 
-<h3 align="center">An inspiring Frontend Developer from Nigeria</h3>
 
-<img align="right" alt="Coding" width="400" src="https://goofy-goldstine-0f8bb1.netlify.app/img/web.gif">
 
-<p align="left"> <a href="https://twitter.com/unusualmide321" target="blank"><img src="https://img.shields.io/twitter/follow/unusualmide321?logo=twitter&style=for-the-badge" alt="unusualmide321" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unusualmide&label=Profile%20views&color=0e75b6&style=flat" alt="unusualmide" /> </p>
+## Hello, I'm Ajilogba Ayomide <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unusualmide" alt="unusualmide" /></a> </p>
+I'm a Frontend Dev. with 11 months of building experience.
 
-<p align="left"> <a href="https://twitter.com/unusualmide321" target="blank"><img src="https://img.shields.io/twitter/follow/unusualmide321?logo=twitter&style=for-the-badge" alt="dprincecoder" /></a> </p>
+:mailbox: Looking for me!
 
-<br/>
+👯 I’m looking to collaborate on: **open source**
 
-- 🔭 I’m currently working on **React**
+[![Twitter Badge](https://img.shields.io/badge/-@unusualmide321-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eni4sure)
+[![Linkedin Badge](https://img.shields.io/badge/-Ayomide_Ajilogba-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajilogba-ayomide-090479280/)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white)](https://portfoliov3-rosy.vercel.app)
+[![Instagram Badge](https://img.shields.io/badge/-@this.mide-e84393?style=flat&logo=instagram&logoColor=white)](https://instagram.com/this.mide)
 
-- 🌱 I’m currently learning: **UI/UX Design**
 
-- 👯 I’m looking to collaborate on: **open source**
+### Top Technologies and Stack ⚡️
 
-- 👨‍💻 All of my projects are available at: **pending**
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- 💬 Ask me about: **react**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- 📫 How to reach me: **mobile.twitter.com/unusualmide321**
+![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-- ⚡ Fun fact: **I love coding**
 
-<br/>
+### Work
 
-<h4 align="left">Connect with me:</h4>
+Portfolio: https://portfoliov3-rosy.vercel.app
 
-<p align="left">
-<a href="https://twitter.com/unusualmide321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unusualmide" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ajilogba-ayomide-090479280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajilogba-ayomide-090479280" height="25" width="30" /></a>
-<a href="https://instagram.com/this.mide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mide" height="25" width="30" /></a>
-</p>
+### Profile Visits
 
-<br/>
+![visitors](https://komarev.com/ghpvc/?username=unusualmide)
 
-<h4 align="left">Languages and Tools:</h4>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="25"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="25"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="25"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="25"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="25"/> </a> <a href ="https://tailwindcss.com/" target="_blank" rel="noreferrer"></a></p>
+<details>
 
-<br />
+### Github Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=unusualmide&count_private=true&theme=dark&hide=contribs,issues)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unusualmide&show_icons=true&locale=en" alt="unusualmide" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unusualmide&" alt="unusualmide" /></p>
+
+</details>
