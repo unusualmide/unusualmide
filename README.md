@@ -8,8 +8,8 @@ I'm a Frontend Dev. with 11 months of building experience.
 
 👯 I’m looking to collaborate on: **open source**
 
-[![Twitter Badge](https://img.shields.io/badge/-@unusualmide321-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eni4sure)
-[![Linkedin Badge](https://img.shields.io/badge/-Ayomide_Ajilogba-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajilogba-ayomide-090479280/)
+[![Twitter Badge](https://img.shields.io/badge/-@unusualmide321-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/unusualmide321)
+[![Linkedin Badge](https://img.shields.io/badge/-Ayomide_Ajilogba-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajilogba-ayomide/)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white)](https://portfoliov3-rosy.vercel.app)
 [![Instagram Badge](https://img.shields.io/badge/-@this.mide-e84393?style=flat&logo=instagram&logoColor=white)](https://instagram.com/this.mide)
 
