@@ -2,13 +2,15 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hello">
 
 <p>
-Hello, I'm Ayomide, a passionate developer specializing in Frontend & Mobile Application development built with React Native, React & other technologies. My journey in the tech world has been an exciting one, and I'm constantly hungry to learn and grow. </p>
+I am Ajilogba Ayomide, a passionate and versatile FullStack Developer with a strong foundation in both frontend and backend technologies. My core expertise lies in the MERN stack (MongoDB, Express.js, React.js, Node.js), through which I build dynamic, efficient, and scalable applications that deliver real value to users and businesses alike.
 
-- 🌱 Currently, I'm on a quest to expand my knowledge in all things tech. Whether it's exploring new programming languages, diving into the latest frameworks, or discovering innovative development techniques, I'm eager to absorb it all.
-- 👯 I'm actively seeking opportunities to collaborate with fellow React Native enthusiasts and professionals. Together, we can push the boundaries of mobile app development and create something extraordinary.
-- ⚡  Fun fact: When I'm not immersed in code, you'll find me lost in the rhythm of music.
+Over the years, I have honed my craft by working extensively with Next.js, Redux, Tailwind CSS, and modern UI frameworks, enabling me to create applications that are not only functional but also visually engaging, highly responsive, and optimized for performance. My proficiency in state management, server-side rendering, and component-driven architecture allows me to build solutions that are fast, secure, and maintainable at scale.
 
-Join me on this incredible journey of coding and exploration, where innovation knows no bounds. Let's connect, collaborate, and create the future together! 🚀
+I thrive on problem-solving and innovation, and I enjoy taking ideas from concept through design, development, testing, and deployment. My development philosophy is centered around writing clean, maintainable, and reusable code, as well as keeping up-to-date with industry best practices and emerging technologies.
+
+In addition to technical skills, I bring strong collaboration and communication abilities, having worked effectively in team environments as well as independently. I am deeply motivated by continuous learning, exploring new tools and frameworks, and improving workflows to deliver top-quality solutions.
+
+Whether it’s building intuitive user interfaces, designing robust APIs, or architecting databases, I am driven by the goal of creating digital products that are impactful, user-focused, and future-ready. Ultimately, my mission is to leverage technology to solve real-world problems and contribute meaningfully to projects that make a difference.
 
 ## Connect with me:
 
@@ -40,7 +42,6 @@ Join me on this incredible journey of coding and exploration, where innovation k
 
 <img align="left" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img align="left" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="Framer Motion" src="https://img.shields.io/badge/Franer_Motion-20232A?style=for-the-badge&logo=framermotion&logoColor=42DCFC" />
 
 <br />
@@ -73,9 +74,9 @@ Join me on this incredible journey of coding and exploration, where innovation k
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unusualmide&theme=dark)](https://git.io/streak-stats)
 
 
-[twitter]: https://twitter.com/unusualmide321
-[instagram]: https://instagram.com/this.mide
-[linkedin]: https://linkedin.com/in/ajilogba-ayomide/
+[twitter]: https://twitter.com/babyelixir
+[instagram]: https://instagram.com/
+[linkedin]: https://linkedin.com/in//
 [website]: https://unusualmide.vercel.app/
  
 
